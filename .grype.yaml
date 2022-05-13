@@ -1,0 +1,4 @@
+ignore:
+  - package:
+      name: libc6
+  - vulnerability: CVE-2022-29458
